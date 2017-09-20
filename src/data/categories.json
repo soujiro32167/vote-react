@@ -1,0 +1,30 @@
+[
+    {
+        "label": "Business & Office Supplies",
+        "id": "business_office_supplies"
+    },
+    {
+        "label": "Food & Restaurant Supplies",
+        "id": "food_restaurant_supplies"
+    },
+    {
+        "label": "Coffee and Tea",
+        "id": "coffee_and_tea"
+    },
+    {
+        "label": "Hardware",
+        "id": "hardware"
+    },
+    {
+        "label": "Automotive",
+        "id": "automotive"
+    },
+    {
+        "label": "Pharmacy",
+        "id": "pharmacy"
+    },
+    {
+      "label": "Electronics & Cellphones",
+      "id": "electronics_and_cellphones"
+    }
+]

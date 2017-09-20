@@ -1,0 +1,302 @@
+[
+  {
+    "label": "LED Bulbs (Generic)",
+    "name": "led_bulbs__generic_",
+    "votes": 116,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Printer Ink (New)",
+    "name": "printer_ink__new_",
+    "votes": 91,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Printer Ink (Refill)",
+    "name": "printer_ink__refill_",
+    "votes": 79,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Printer Paper (Regular)",
+    "name": "printer_paper__regular_",
+    "votes": 53,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Printer Paper (High Quality)",
+    "name": "printer_paper__high_quality_",
+    "votes": 112,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Cleaning Supplies (Brand Name)",
+    "name": "cleaning_supplies__brand_name_",
+    "votes": 68,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Cleaning Supplies (Generic)",
+    "name": "cleaning_supplies__generic_",
+    "votes": 196,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "LED Bulbs (Brand Name)",
+    "name": "led_bulbs__brand_name_",
+    "votes": 140,
+    "category": "business_office_supplies"
+  },
+  {
+    "label": "Flour (Organic)",
+    "name": "flour__organic_",
+    "votes": 82,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Flour (Non-organic)",
+    "name": "flour__non_organic_",
+    "votes": 174,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Rice (Organic)",
+    "name": "rice__organic_",
+    "votes": 83,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Rice (Non-organic)",
+    "name": "rice__non_organic_",
+    "votes": 147,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Pasta (Organic)",
+    "name": "pasta__organic_",
+    "votes": 62,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Pasta (Non-organic)",
+    "name": "pasta__non_organic_",
+    "votes": 135,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Sugar (Organic)",
+    "name": "sugar__organic_",
+    "votes": 56,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Sugar (Non-organic)",
+    "name": "sugar__non_organic_",
+    "votes": 93,
+    "category": "food_restaurant_supplies"
+  },
+  {
+    "label": "Coffee (Brand Name)",
+    "name": "coffee__brand_name_",
+    "votes": 68,
+    "category": "coffee_and_tea"
+  },
+  {
+    "label": "Coffee (Generic)",
+    "name": "coffee__generic_",
+    "votes": 61,
+    "category": "coffee_and_tea"
+  },
+  {
+    "label": "Tea (Brand Name)",
+    "name": "tea__brand_name_",
+    "votes": 136,
+    "category": "coffee_and_tea"
+  },
+  {
+    "label": "Tea (Generic)",
+    "name": "tea__generic_",
+    "votes": 93,
+    "category": "coffee_and_tea"
+  },
+  {
+    "label": "Coffee Filters (Brand Name)",
+    "name": "coffee_filters__brand_name_",
+    "votes": 55,
+    "category": "coffee_and_tea"
+  },
+  {
+    "label": "Coffee Filters (Generic)",
+    "name": "coffee_filters__generic_",
+    "votes": 113,
+    "category": "coffee_and_tea"
+  },
+  {
+    "label": "Paint (Brand Name)",
+    "name": "paint__brand_name_",
+    "votes": 103,
+    "category": "hardware"
+  },
+  {
+    "label": "Paint (Generic)",
+    "name": "paint__generic_",
+    "votes": 131,
+    "category": "hardware"
+  },
+  {
+    "label": "Cleaners (Brand Name)",
+    "name": "cleaners__brand_name_",
+    "votes": 79,
+    "category": "hardware"
+  },
+  {
+    "label": "Cleaners (Generic)",
+    "name": "cleaners__generic_",
+    "votes": 183,
+    "category": "hardware"
+  },
+  {
+    "label": "Asphalt Pot Hole Filler",
+    "name": "asphalt_pot_hole_filler",
+    "votes": 64,
+    "category": "hardware"
+  },
+  {
+    "label": "Motor Oil (Brand Name)",
+    "name": "motor_oil__brand_name_",
+    "votes": 63,
+    "category": "automotive"
+  },
+  {
+    "label": "Motor Oil (Generic)",
+    "name": "motor_oil__generic_",
+    "votes": 97,
+    "category": "automotive"
+  },
+  {
+    "label": "Winshield Washer (Brand Name)",
+    "name": "winshield_washer__brand_name_",
+    "votes": 94,
+    "category": "automotive"
+  },
+  {
+    "label": "Winshield Washer (Generic)",
+    "name": "winshield_washer__generic_",
+    "votes": 156,
+    "category": "automotive"
+  },
+  {
+    "label": "Air Filter (Brand Name)",
+    "name": "air_filter__brand_name_",
+    "votes": 175,
+    "category": "automotive"
+  },
+  {
+    "label": "Air Filter (Generic)",
+    "name": "air_filter__generic_",
+    "votes": 69,
+    "category": "automotive"
+  },
+  {
+    "label": "Brake Fluid (Brand Name)",
+    "name": "brake_fluid__brand_name_",
+    "votes": 163,
+    "category": "automotive"
+  },
+  {
+    "label": "Brake Fluid (Generic)",
+    "name": "brake_fluid__generic_",
+    "votes": 89,
+    "category": "automotive"
+  },
+  {
+    "label": "Brake Pads (Brand Name)",
+    "name": "break_pads__brand_name_",
+    "votes": 190,
+    "category": "automotive"
+  },
+  {
+    "label": "Brake Pads (Generic)",
+    "name": "break_pads__generic_",
+    "votes": 165,
+    "category": "automotive"
+  },
+  {
+    "label": "PMS-DOMPERIDONE 10MG, 500-pack",
+    "name": "pms_domperidone_10mg__500_pack",
+    "votes": 59,
+    "category": "pharmacy"
+  },
+  {
+    "label": "SAB-HALOPERIDOL INJ 5MG/ML, 10X1ML",
+    "name": "sab_haloperidol_inj_5mg_ml__10x1ml",
+    "votes": 104,
+    "category": "pharmacy"
+  },
+  {
+    "label": "RESTASIS OPH 0.05% DROPS, 30X0.4ML",
+    "name": "restasis_oph_0_05__drops__30x0_4ml",
+    "votes": 134,
+    "category": "pharmacy"
+  },
+  {
+    "label": "ACT SILDENAFIL 100MG (BLPK), 4-pack",
+    "name": "act_sildenafil_100mg__blpk___4_pack",
+    "votes": 89,
+    "category": "pharmacy"
+  },
+  {
+    "label": "PMS-SILDENAFIL TB 100MG, 4-pack",
+    "name": "pms_sildenafil_tb_100mg__4_pack",
+    "votes": 101,
+    "category": "pharmacy"
+  },
+  {
+    "label": "PMS-COLCHICINE 0.6MG, 100-pack",
+    "name": "pms_colchicine_0_6mg__100_pack",
+    "votes": 100,
+    "category": "pharmacy"
+  },
+  {
+    "label": "COLCHICINE .6MG (ODN), 100-pack",
+    "name": "colchicine__6mg__odn___100_pack",
+    "votes": 185,
+    "category": "pharmacy"
+  },
+  {
+    "label": "ACT CELECOXIB 200MG, 100-pack",
+    "name": "act_celecoxib_200mg__100_pack",
+    "votes": 110,
+    "category": "pharmacy"
+  },
+  {
+    "label": "PMS-RISEDRONATE 35MG BLISTER 4-pack",
+    "name": "pms_risedronate_35mg_blister_4_pack",
+    "votes": 101,
+    "category": "pharmacy"
+  },
+  {
+    "label": "PMS-MEMANTINE 10MG TABS, 30-pack",
+    "name": "pms_memantine_10mg_tabs__30_pack",
+    "votes": 150,
+    "category": "pharmacy"
+  },
+  {
+    "label": "TVs (brand name / generic)",
+    "name": "tvs__brand_name___generic_",
+    "votes": 86,
+    "category": "electronics_and_cellphones"
+  },
+  {
+    "label": "Cellphones (brand name / generic)",
+    "name": "cellphones__brand_name___generic_",
+    "votes": 169,
+    "category": "electronics_and_cellphones"
+  },
+  {
+    "label": "Air Conditioner (brand name / generic)",
+    "name": "air_conditioner__brand_name___generic_",
+    "votes": 83,
+    "category": "electronics_and_cellphones"
+  }
+]
