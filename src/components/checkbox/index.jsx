@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class Chckbox extends React.Component {
+export default class Checkbox extends React.Component {
 
   render(){
     const { name, value, label, votes } = this.props;

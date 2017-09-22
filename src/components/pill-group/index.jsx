@@ -1,13 +1,13 @@
 import React from 'react';
-import categories from '../../data/categories';
 import Pill from '../pill';
 
 
 export default class PillGroup extends React.Component {
   render() {
+    const context = this.props.context;
     return (
       <ul className="nav nav-pills nav-stacked">
-        {categories.map( (category, index) => <Pill label={category.label} anchor={category.id} isActive={ index === 0 } key={ category.id }/> )}
+        {context.map( ({label, id}, index) => <Pill label={label} anchor={id} isActive={ index === 0 } key={ id }/> )}
       </ul>
     )
   }
